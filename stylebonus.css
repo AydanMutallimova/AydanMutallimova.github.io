@@ -1,0 +1,28 @@
+h1, h2{
+	text-align: center;
+	font-style: oblique; 
+	color: purple;
+	border-style: groove;
+	border-color: lightblue;
+	border-radius: 50%;
+	margin-top: 5px;
+}
+
+img{
+	border-radius: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+p{
+	color: coral;
+	text-decoration: underline;
+	margin-left: 428px;
+}
+
+li{
+	color: blueviolet;
+	text-transform: uppercase;
+	text-decoration: none;
+}
